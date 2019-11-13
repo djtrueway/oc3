@@ -1,0 +1,183 @@
+
+header{
+    background-color: #17060c;
+    border-top: 2px solid #ec3e7a;
+    color: #ec3e7a
+}
+
+.navbar-toggler1{
+    background-color:#ec3e7a;
+    border-radius: 5px 
+}
+
+.logo{
+    color: #ec3e7a;
+    font-family: 'Anton', sans-serif;
+}
+
+.logo:hover{
+    color: #ec3e7a;
+    font-family: 'Anton', sans-serif;
+}
+
+.card-title{
+    color: #fff;
+}
+
+.card-text{
+    color:  #ec3e7a;
+}
+
+.fa-bars{
+    color: #fff;
+}
+
+.hero-title{
+    color: #ec3e7a;
+    font-size: 40px
+}
+.hero-p{
+    color: #ec3e7a;
+}
+
+.card .image{
+    height: 300px;
+}
+.navbar-toggler-icon1{
+    background-color: #ec3e7a;
+}
+
+.nav-link{
+    color: #ec3e7a;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+  }
+
+.nav-link:hover{
+    color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+    border-bottom: 2px solid #ec3e7a;
+    transition-duration: 500ms;
+}
+
+.card{
+    color: #ec3e7a;
+}
+.card-body{
+    background-color: #272328
+}
+
+.carousel{
+    margin: 25px 0px 50px 0px
+  }
+#carousel{
+    background-image: url('./img/cinema-plein-air-paris-ete-2019.jpg');
+    background-size: cover;
+    padding: 15%;
+}
+
+.d-block{
+    width: 1024px;
+    height: 509px;
+}
+.title{
+    color: #ec3e7a;
+    text-align: center; 
+    font-size: 60px;
+    font-family: 'Nunito', sans-serif;
+}
+h3{
+    color: #ec3e7a;
+    text-align: center; 
+    font-family: 'Nunito', sans-serif;
+}
+
+.button{
+    background-color: #ec3e7a;
+    margin-top: 20px ;
+    margin-left:25%; 
+    color: #fff;
+    border: 1px solid white;
+    border-radius: 30px;
+    width: 50%
+}
+
+.button:hover{
+    background-color: #ffffff;
+    color: #ec3e7a;
+    text-align: center;
+}
+p{
+    color: #ffffff;
+    text-align: center;
+}
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+label{
+    color: #ec3e7a;
+}
+
+footer{
+    background-color:  #17060c;
+    color: #ec3e7a;
+    padding: 5%
+
+}
+
+.inline{
+    color: #ec3e7a;
+    text-align: center
+}
+
+.footer{
+    background-color: #17060c;
+    color: #ec3e7a;
+    padding-top: 2%;
+    padding-bottom:2%
+  
+}
+
+li{
+    color: #ffffff;
+    text-align: center;
+    list-style-type: none;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+  }
+
+#films{
+    background-color: #000000;
+}
+
+#us{
+    background-color: #000000;
+}
+
+.sociaux{
+    color: #ec3e7a;
+    border: 1px solid #ec3e7a;
+    border-radius: 45%;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.form{
+    background-color: #aaa;
+    padding: 5%;
+    opacity: 0.9;
+}
+
+#catalogue{
+    background-image: url('./img/netflix.jpeg');
+    background-size: cover;
+    padding: 5%;
+}
