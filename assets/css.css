@@ -5,6 +5,7 @@ header{
     color: #ec3e7a
 }
 
+
 .navbar-toggler1{
     background-color:#ec3e7a;
     border-radius: 5px 
@@ -64,6 +65,7 @@ header{
 
 .card{
     color: #ec3e7a;
+    cursor: pointer;
 }
 .card-body{
     background-color: #272328
